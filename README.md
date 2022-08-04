@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @homayoun1220
 - 👀 I’m interested in DLT technology
 - 🌱 I’m currently learning Express.js and fabric sdk
-- 💞️ I’m looking to collaborate on belockchain novel solution projects
 - 📫 How to reach me homayoun1220@gmail.com
 
 <!---
