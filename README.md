@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @homayoun1220
-- 👀 I’m interested in DLT technology
+- 👀 I’m interested in DLT 
 - 📫 How to reach me homayoun1220@gmail.com
 
 <!---
